@@ -9,4 +9,4 @@ The the challenge is to make the tests pass and provide a Rest application with 
 
 ![Info](https://img.shields.io/badge/Junit-Runs%3A%209%2F9%20%7C%20Errors%3A%209%20%7C%20Failures%3A%200-red)
 
-(https://raw.githubusercontent.com/felipeschirmann/bds03/be0e38a7a387354535a60baabd6cd120fb71ef59/uml.png)
+![Info](https://raw.githubusercontent.com/felipeschirmann/bds03/be0e38a7a387354535a60baabd6cd120fb71ef59/uml.png)
